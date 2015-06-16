@@ -1,0 +1,4 @@
+Bicluster.java :BiCluster Algo
+knn.java : Density scan based knn with multiple iterations threshhold=5 and min neighbours =4
+KPixel :KMeans algorithm,requires manual input
+ModifiedKMean :Automated version of Kmean
